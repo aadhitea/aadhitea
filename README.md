@@ -14,17 +14,17 @@
 
 | Domain | Skills & Technologies |
 | :--- | :--- |
-| **Programming** | Python, SQL, PySpark, SAS, R, GenAI[cite: 1] |
-| **Data Science & ML** | XGBoost, Logistic Regression, Random Forest, Decision Trees, SVM, KNN, RNN, PCA, K-Means, Bagging & Boosting[cite: 1] |
-| **Risk Modeling** | Credit & Fraud Risk Modeling, Probability of Default (PD), WOE / IV Analysis, Scorecard Development, Vintage Analysis, Roll Rate Analysis, PSI, CSI[cite: 1] |
-| **Cloud & Databases** | AWS (Redshift, Cloud Practitioner), GCP (BigQuery), MySQL, Hive, Hadoop, GitHub[cite: 1] |
-| **Tools & Platforms** | Tableau, Power BI, OpenAI LLMs, MS Excel, MS PowerPoint, JIRA, Confluence[cite: 1] |
+| **Programming** | Python, SQL, PySpark, SAS, R, GenAI |
+| **Data Science & ML** | XGBoost, Logistic Regression, Random Forest, Decision Trees, SVM, KNN, RNN, PCA, K-Means, Bagging & Boosting |
+| **Risk Modeling** | Credit & Fraud Risk Modeling, Probability of Default (PD), WOE / IV Analysis, Scorecard Development, Vintage Analysis, Roll Rate Analysis, PSI, CSI |
+| **Cloud & Databases** | AWS (Redshift, Cloud Practitioner), GCP (BigQuery), MySQL, Hive, Hadoop, GitHub |
+| **Tools & Platforms** | Tableau, Power BI, OpenAI LLMs, MS Excel, MS PowerPoint, JIRA, Confluence |
 
 ---
 
 ### 💼 Work Experience
 
-#### **Assistant Manager – Data Science (Credit & Fraud Risk)** | *American Express* *(Aug 2022 – Oct 2025)*[cite: 1]
+#### **Assistant Manager – Data Science (Credit & Fraud Risk)** | *American Express* *(Aug 2022 – Oct 2025)*
 - **Credit Bust-Out Model Redevelopment:** Led the end-to-end redevelopment of a Credit Bust-Out (CBO) fraud model on **112M+ transactions** using XGBoost
   - Excluded 200K+ delinquent transactions to filter credit noise, boosting CBO recall by **0.3%**
   - Refocused modeling on 9M+ high-limit accounts, yielding a **2.03%** lift in relative recall/coverage for high-dollar loss exposure
